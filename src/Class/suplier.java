@@ -6,7 +6,7 @@ import mycode.DbConnection;
 
 /**
  *
- * @author Janith
+ * @author Janith Chathuranga
  */
 public class suplier {
     String id;
