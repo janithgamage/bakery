@@ -5,7 +5,7 @@ import mycode.DbConnection;
 
 /**
  *
- * @author Janith Chathuranga
+ * @author Janith Chathuranga.
  */
 public class Baker {
     String id;
