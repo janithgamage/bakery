@@ -6,7 +6,7 @@ import mycode.DbConnection;
 
 /**
  *
- * @author Janith Chathuranga
+ * @author Janith
  */
 public class Item {
     String id;
